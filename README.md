@@ -1,1 +1,10 @@
-# 8-puzzle_solver_with_A_search
+# 8-puzzle solver with A_search
+
+# This program is written with python
+#To run it:
+Download Python to your computer 
+and write
+```python
+python 8puzzle.py
+```
+on your command prompt

@@ -1,7 +1,7 @@
 # 8-puzzle solver with A_search
 
-This program is written with python
-##To run it:
+This program is written with Python
+To run it:
 Download Python to your computer 
 and write
 ```python

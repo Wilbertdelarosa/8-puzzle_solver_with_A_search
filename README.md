@@ -7,4 +7,4 @@ and write
 ```python
 python 8puzzle.py
 ```
-on your command prompt
+on your command prompt. And it will ask you for the initial state.
